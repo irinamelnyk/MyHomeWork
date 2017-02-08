@@ -1,0 +1,31 @@
+
+p{
+	font-size: 18px;
+	}
+ul{
+	font-size: 18px;
+}
+.block0{
+	width: 500px;
+	margin: 20px 0px 0px 400px;
+	border-bottom: 1px solid black;
+		}
+.block1{
+	width: 500px;
+	margin: 0px 0px 0px 400px;
+	border-bottom: 1px solid black;
+	
+		}		
+.block2{
+	width: 500px;
+	margin: 0px 0px 35px 400px;
+		}
+.block3{
+	width: 500px;
+	border-bottom: 1px solid black;
+	margin: 0px 0px 0px 400px;
+		}
+.block4{
+	width: 500px;
+	margin: 0px 0px 0px 400px;
+		}		

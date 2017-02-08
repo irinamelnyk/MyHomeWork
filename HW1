@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Homework1</title>
+		<link rel="stylesheet" href="Style.css">
+		<meta charset="utf-8">
+	</head>
+    <body>
+	
+        <div class="block0">
+		<center>
+		<h2>Мельник Ірина Анатоліївна</h2>
+        <img src="кіт.jpg" width="150px" alt="">
+		</center>
+		<p>Кандидат фізико-математичних наук</p>
+		</div>
+		
+		<div class="block1">
+		<p>Хочу вивчати фронтенд, тому що:</p>
+		<ul>
+			<li>Потрібно щось змінювати</li>
+			<li>Для особистого розвитку</li>
+			<li>Це щось нове</li>
+		</ul>
+		</div>
+		<div class="block2">
+		<p>Мій контактний номер телефону</p>
+		<p>+38093********</p>
+		</div>
+		<div class="block3">
+		<p>Моя сторінка в Facebook</p>
+		<p>
+		<a href="https://www.facebook.com/irina.melnik.98">Facebook</a>
+		</p>
+		</div>
+		<div class="block4">
+		<p>Моя примітка:</p>
+		<p>Візьміть мене на роботу, ну будь ласка!</p>
+		</div>
+	
+    </body>
+</html>
